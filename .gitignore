@@ -1,0 +1,10 @@
+.vscode/
+staticfiles/
+cmd
+*install.sh
+.env
+*/__pycache__/
+__pycache__/
+/venv/
+*.pyc
+.idea/
